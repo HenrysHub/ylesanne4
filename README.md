@@ -10,4 +10,4 @@ Keskond: Github; Windows
 Antud töö on koostatud Henry Lehtsi poolt.
 
 # Link tarkvarale
-* [Pangalingid](www.pangalingid.tak17lehtsi.itmajakas.ee) - Tarkvara
+* [Pangalingid](http://pangalingid.tak17lehtsi.itmajakas.ee ) - Tarkvara
